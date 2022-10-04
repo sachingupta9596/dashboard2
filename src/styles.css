@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+.flex1 {
+  flex: 1;
+}
+.flex2 {
+  flex: 8;
+  background-color: #e6e8ed;
+}
+#Header {
+  width: 100%;
+  padding: 0px 10px 0px 10px;
+}
+#charts {
+  height: 40%;
+  background-color: white;
+  margin: 30px 10px 10px 10px;
+}

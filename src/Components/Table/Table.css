@@ -1,0 +1,39 @@
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+.hide {
+  display: none;
+}
+.hover {
+  cursor: pointer;
+}
+.tablediv {
+  flex: 2;
+  background-color: white;
+  margin-left: 16px;
+}
+.tablebutton {
+  text-align: center;
+  padding: 8px;
+  font-size: 0.9rem;
+  color: gray;
+  border-radius: 5px;
+  width: 120px;
+  margin: 8px;
+}
+.bc {
+  background-color: darkblue;
+}
